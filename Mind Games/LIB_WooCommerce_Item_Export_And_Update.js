@@ -7,6 +7,8 @@
  ** @NApiVersion 2.x
  ** @NModuleScope Public
  **/
+
+ /* Comment */
 define(['N/record', 'N/search', 'N/format', 'N/https', 'N/file'],
 	function (record, search, format, https, file) {
 		var itemRecObj = '';
